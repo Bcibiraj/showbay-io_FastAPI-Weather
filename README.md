@@ -59,3 +59,5 @@ tests/
 
 Run tests: `pytest -v`
 Async API calls are mocked. Tests cover CRUD and fetching weather.
+
+completed
